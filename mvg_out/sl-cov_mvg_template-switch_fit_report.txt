@@ -1,0 +1,18 @@
+[d_sample]
+value = 0.0977056
+
+[theta_pool]
+value = 0.422499
+
+[phi_pool]
+value = 1.49252
+
+[gamma/mu]
+value = 3.53259
+
+[fbar]
+value = 30000
+
+[c]
+value = 0.361511
+
